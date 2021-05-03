@@ -1,0 +1,7 @@
+Things u need to install :
+grub
+nasm
+gcc
+qemu
+virtualbox
+xorriso
