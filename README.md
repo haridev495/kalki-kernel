@@ -1,5 +1,4 @@
-  GNU nano 5.4                      README.md                               
-# Kalki  Kernel
+                             # Kalki  Kernel
 
 This is the diy kernel project where people can edit and build their own kernel.
 
@@ -9,7 +8,7 @@ This is the diy kernel project where people can edit and build their own kernel.
 - 'Use the setup.sh to install all files ' (only for linux)
 - 'After u edit the kernel run the build.sh to compile the kernel and run it.
 
-# # Steps to compile the kernel(Windows):
+#  Steps to compile the kernel(Windows):
 
 - 'Use the setup.txt and download and install all files (Its the list of the required things
 - 'After u edit the kernel run the build.bat to compile the kernel and run it.
