@@ -1,4 +1,4 @@
-                             # Kalki  Kernel
+# Kalki  Kernel
 
 This is the diy kernel project where people can edit and build their own kernel.
 
